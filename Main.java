@@ -1,5 +1,5 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("間違った編集");
+    System.out.println("Hello SEMonster");
   }
 }
